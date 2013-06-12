@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="contactEntryPadding">5dp</dimen>
+    <dimen name="editorPadding">16dp</dimen>
+</resources>

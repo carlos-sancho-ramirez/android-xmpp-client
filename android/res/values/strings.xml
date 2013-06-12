@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="appName">GTalkClient</string>
+    <string name="menuPreferences">Preferences</string>
+    <string name="menuAbout">About</string>
+
+    <!-- Editor -->
+    <string name="jidFieldTitle">Jabber ID</string>
+    <string name="passwordFieldTitle">Password</string>
+    <string name="saveButton">Log In</string>
+
+    <!-- Message form -->
+    <string name="sendButton">Send</string>
+    <string name="destinationTitle">Destination</string>
+    <string name="titleTitle">Title for the message</string>
+    <string name="bodyTitle">Body for the message</string>
+</resources>
